@@ -1,5 +1,5 @@
 Type,Data,Note
-Info,Domain names abusing the Hiragana character ん,https://www.netcraft.com/blog
+Info,Domain names abusing the Hiragana character ん,https://www.netcraft.com/blog/down-the-hiragana-hole-uncovering-a-new-wave-of-lookalike-domains
 domain,www.kyberswap.xn--com.detailor.der-sy4mga.kybercampaigns-aggregator.com,
 domain,kyberswap.xn--com.detailor.der-sy4mga.kybercampaigns-aggregator.com,
 domain,cloudflare.xn--com.detailrestric-access-ge5vga.com-restrict.net,
@@ -602,3 +602,4 @@ domain,microsoft.xn--commeetup-join19meeting-ge5vla.otc4zjbhztytnji4ny0.com,
 domain,826.exe.carnegie.workers.dev,C2 domain from malware
 ip,104.21.112.1,C2 IP from malware
 sha256,8ece4a3bade0e297d4e81120f6361fcb02a04ae181a3066b28bf3fd0056d9d11,Malware hash of fake Rabby Wallet installer
+
