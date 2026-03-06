@@ -1,0 +1,28 @@
+Type,Indicator
+Domain,us01web-zoom[.]us
+Domain,us02web-zoom[.]us
+Domain,us03web-zoom[.]us
+Domain,9ooggleactivemeett[.]live
+Domain,zooooom[.]it[.]com
+Domain,9googllemeett[.]live
+Domain,googlemeetme[.]us
+Domain,greenwayauto[.]sale
+Domain,zooom-cal-imvite-zoom-session[.]org
+Domain,dhvault[.]com
+Domain,goggllemmeettiingnc[.]com
+URL,hxxps://uswebzoomus[.]com/zoom
+URL,hxxps://9ooggleactivemeett[.]live/in/invite.php
+URL,hxxps://zooooom[.]it[.]com/
+URL,hxxps://9googllemeett[.]live/
+URL,hxxps://googlemeetme[.]us/
+URL,hxxps://greenwayauto[.]sale/
+URL,hxxps://zooom-cal-imvite-zoom-session[.]org/zoooommeeting/
+URL,hxxps://dhvault[.]com/
+URL,hxxps://goggllemmeettiingnc[.]com/meett/invite.php
+Hash,1de8291997afa344fb21c83449b424f4d16978e0a8a866b7667754b88e72da00 (Zoom_Update.scr)
+Hash,6a09447214a53cf0ea1996a7ab4cb089 (Zoom_Update.scr (MD5))
+Hash,644ef9f5eea1d6a2bc39a62627ee3c7114a14e7050bafab8a76b9aa8069425fa (zoom_agent_x64_s-i(__941afee582cc71135202939296679e229dd7cced) (1).msi)
+Hash,96c421a915873a51a14fcbdbad84f8608f0679b03855158fe0ab85a6228c10a2 (GoogleMeet.scr)
+Hash,ae8df1133d370407811292b9feaecb0b068ec12d14f0e237e13615e4048c63c0 (ZoomUpdateInstaller.msi)
+Hash,ebb7f1c3f175c04e87fddce36f694ead62d89e16585a5d117e77b5f2abb13073 (Zoomupdateinstaller.exe)
+Hash,4af9b93dbb15a7da8120404bddf93028716673b15baca6338b533e7e8c232418 (Google_Meet_Setup.exe)
